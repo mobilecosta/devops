@@ -15,3 +15,6 @@ https://www.linkedin.com/learning/github-copilot-formacao-basica/descubra-o-gith
 
 ## Dash
 https://github.com/ftvernier/erp-solutions/blob/main/erp-protheus-ops/dashboard_protheus_ops.py
+
+## MicroSoft
+https://visualstudio.microsoft.com/pt-br/app-center/
