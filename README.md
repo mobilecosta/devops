@@ -21,3 +21,6 @@ https://visualstudio.microsoft.com/pt-br/app-center/
 
 ## KuberNext
 https://www.linkedin.com/posts/fabricioveronez_kubernetes-%C3%A9-dif%C3%ADcil-ugcPost-7375920395050311680-0nVf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
+## JOBS
+https://cron-job.org/en/
