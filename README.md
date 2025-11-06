@@ -24,3 +24,6 @@ https://www.linkedin.com/posts/fabricioveronez_kubernetes-%C3%A9-dif%C3%ADcil-ug
 
 ## JOBS
 https://cron-job.org/en/
+
+## Nuvem
+https://www.facebook.com/share/v/19zh7mmZ3e/
